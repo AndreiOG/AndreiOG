@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreiOG, Brasileiro, Natural de Blumenau-SC, tenho 32 anos.
+- 👋 Hi, I’m @AndreiOG, Brasileiro, Natural de Blumenau-SC, 32 anos.
 - 👀 I’m interested in ... Technologia, Dev WEB, Dev Software.
 - 🌱 I’m currently learning ... HTML, CSS, Java.
 - 💞️ I’m looking to collaborate on ... Projetos com Desenvolvimento Web... HTML, CSS, JS.
